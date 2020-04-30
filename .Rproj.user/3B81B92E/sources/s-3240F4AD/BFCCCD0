@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588204928075.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BFCCCD0",
+    "lastKnownWriteTime" : 3180141919958494821,
+    "last_content_update" : 1588204928075,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4C8F4910",
+        "caption" : "premier_league",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=premier_league&cache_key=4C8F4910",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "expression" : "premier_league",
+        "object" : "premier_league",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
